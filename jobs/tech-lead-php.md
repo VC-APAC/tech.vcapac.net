@@ -21,7 +21,7 @@ We are looking for a Tech Lead with a strong PHP background, based in Singapore,
 * Knowledge of current frameworks, SDKs, APIs, and libraries
 * Good organizational and time-management skills
 * Ability to work with other developers and assist team members
-* Have worked with OpenAI specifications and agile methodologies
+* Have worked with OpenAPI specifications and agile methodologies
 * Has strong interpersonal skills, including being able to negotiate and lead
 * Excellent english is a must
 * Prior exposure to e-commerce is a plus
