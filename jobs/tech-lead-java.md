@@ -5,7 +5,7 @@ We are looking for a Tech Lead with a strong Java background covering, based in 
 ## What will you be doing?
 
 * Design, implement and maintain Java based backend services
-* Mentor and lead a tribe of 5 people
+* Mentor and lead a squad of 5 people
 * Take accountability for estimates and project delivery
 * Work with other teams, including front-end, product, and design, to ensure integration and consistency
 * Participate in code reviews, and code clean up
@@ -21,6 +21,7 @@ We are looking for a Tech Lead with a strong Java background covering, based in 
 * Have worked with OpenAI specifications, API integration, agile methodologies
 * Has strong interpersonal skills, including being able to negotiate and lead
 * Prior exposure to e-commerce 
+
 ## What we offer?
 
 * An ambitious organization that is scaling fast and committed to delivering the best platform to our community
