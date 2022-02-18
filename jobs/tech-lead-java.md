@@ -20,6 +20,7 @@ We are looking for a Tech Lead with a strong Java background, based in Singapore
 * Ability to work with other developers and assist team members
 * Have worked with OpenAI specifications, API integration, agile methodologies
 * Has strong interpersonal skills, including being able to negotiate and lead
+* Excellent english is a must
 * Prior exposure to e-commerce is a plus
 
 ## What we offer?

@@ -1,21 +1,21 @@
-# Senior Software Engineer (Java)
+# Senior Software Engineer (PHP)
 
-We are looking for a Software Engineer with a strong Java background, based in Singapore, Vietnam, or China. This person will be part of a squad implementing platform projects in our e-commerce platform and report to the Tech Lead.
+We are looking for a Software Engineer with a strong PHP background, based in Singapore, Vietnam, or China. This person will be part of a squad implementing platform projects in our e-commerce platform and report to the Tech Lead.
 
 ## What will you be doing?
 
-* Work in a team of engineers to implement backend services in the platform
-* Build service definitions, OpenAPI specifications, SDKs, and documentation for other developers that consume these services
+* Work in a team of engineers that analyzes, dissects, and modernizes legacy application code
+* Building out modular components that replace heritage code and consume API based webservices
 * Integrate with other services and data sources using APIs, messaging systems, databases
-* Collaborate with the DevOps team on microservices design, containerization, and automated deployments
+* Collaborate with global teams
 * Build automated test suites to ensure these services are reliable and performant
 
 ## Who you are?
 
-* 5+ years of experience working with Java and one or more Java frameworks such as Spring Boot
-* Project experience around web service design and RESTful APIs
-* Expertise with the OpenAPI Specification (Swagger), RESTful APIs, and related tools such as Postman, cURL, and HTTPie
-* Experience integrating with 3rd party services and databases such as Redis, message queues, MongoDB, and ElasticSearch
+* 5+ years of experience working with PHP and one or more PHP frameworks such as Symfony
+* Project experience around application modernization
+* Exposure to Unicode/UTF-8 support in PHP7 and Asian languages
+* Expertise integrating with RESTful APIs, message queues and databases
 * Agile/SCRUM methodology experience
 
 ## What we offer?

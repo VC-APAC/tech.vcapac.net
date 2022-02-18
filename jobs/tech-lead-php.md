@@ -5,13 +5,13 @@ We are looking for a Tech Lead with a strong PHP background, based in Singapore,
 ## What will you be doing?
 
 * Analyze, dissect, and modernize legacy application code
-* Building out modular components that replace heritage components and consume API based webservices
+* Building out modular components that replace heritage code and consume API based webservices
 * Mentor and lead a squad of 5 people
 * Take accountability for estimates and project delivery
 * Work with other teams, including front-end, product, and design, to ensure integration and consistency
 * Participate in code reviews, and code clean up 
 * Participate in scrum ceremonies and sprint planning, demonstration of working software at the end of each sprint 
-* Collaborate with the engineering team to build and deploy new features
+* Collaborate with global engineering teams to build and deploy features
 
 ## Who you are?
 
@@ -23,6 +23,7 @@ We are looking for a Tech Lead with a strong PHP background, based in Singapore,
 * Ability to work with other developers and assist team members
 * Have worked with OpenAI specifications and agile methodologies
 * Has strong interpersonal skills, including being able to negotiate and lead
+* Excellent english is a must
 * Prior exposure to e-commerce is a plus
 
 ## What we offer?
