@@ -1,26 +1,22 @@
-# Tech Lead (Java)
+# Senior Software Engineer (Java)
 
 We are looking for a Tech Lead with a strong Java background, based in Singapore, Vietnam, or China. This person will be responsible for leading the technical implementation of platform projects in our e-commerce platform and report into the VP of Engineering.
 
 ## What will you be doing?
 
-* Design, implement and maintain Java based backend services
-* Mentor and lead a squad of 5 people
-* Take accountability for estimates and project delivery
-* Work with other teams, including front-end, product, and design, to ensure integration and consistency
-* Participate in code reviews, and code clean up
+* Work with a team of engineers to implement backend services in the platform
+* Build service definitions, OpenAPI specifications, SDKs, and documentation for other developers that consume these services
+* Integrate with other services and data sources using APIs, messaging systems, databases
+* Collaborate with the DevOps team on microservices design, containerization, and automated deployments
+* Build automated test suites to ensure these services are reliable and performant
 
 ## Who you are?
 
-* 8 years Java experience including Spring Boot
-* Significant coding skills
-* Exceptional problem-solving and analytical abilities
-* Knowledge of current frameworks, SDKs, APIs, and libraries
-* Good organizational and time-management skills
-* Ability to work with other developers and assist team members
-* Have worked with OpenAI specifications, API integration, agile methodologies
-* Has strong interpersonal skills, including being able to negotiate and lead
-* Prior exposure to e-commerce 
+* 5+ years of experience working with Java and one or more Java frameworks such as Spring Boot
+* Project experience around web service design and RESTful APIs
+* Expertise with the OpenAPI Specification (Swagger), RESTful APIs, and related tools such as Postman, cURL, and HTTPie
+* Experience integrating with 3rd party services and databases such as Redis, message queues, MongoDB, and ElasticSearch
+* Agile/SCRUM methodology experience
 
 ## What we offer?
 
