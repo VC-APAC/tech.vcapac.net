@@ -1,6 +1,6 @@
 # Senior Software Engineer (Java)
 
-We are looking for a Tech Lead with a strong Java background, based in Singapore, Vietnam, or China. This person will be responsible for leading the technical implementation of platform projects in our e-commerce platform and report into the VP of Engineering.
+We are looking for a Java Software Engineer with a strong Java background, based in Singapore, Vietnam, or China. This person will be part of a squad implementing platform projects in our e-commerce platform and report to the Tech Lead.
 
 ## What will you be doing?
 
