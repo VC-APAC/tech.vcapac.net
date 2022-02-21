@@ -8,3 +8,8 @@
 
 ## DevOps
 * [DevOps Lead](devops-lead.md)
+
+
+<hr>
+
+Our official job board with roles is [here](https://us.vestiairecollective.com/about/join-us/)
