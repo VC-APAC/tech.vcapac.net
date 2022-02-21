@@ -2,5 +2,3 @@
 
 ![](./resources/v.jpg)
 
-
-* [Join us – Job Openings in APAC](./jobs)
