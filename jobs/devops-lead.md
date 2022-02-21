@@ -1,6 +1,6 @@
-# Senior DevOps Lead
+# DevOps Lead
 
-We are looking for a Senior DevOps Lead Engineer and strong communicator, based in Singapore or Vietnam. This person will be part of a global DevOps team supporting our e-commerce platform and report to the VP of Platform Engineering in APAC.
+We are looking for a DevOps Lead Engineer and strong communicator, based in Singapore or Vietnam. This person will be part of a global DevOps team supporting our e-commerce platform and report to the VP of Platform Engineering in APAC.
 
 ## What will you be doing?
 

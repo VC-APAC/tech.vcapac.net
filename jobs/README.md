@@ -7,4 +7,4 @@
 * [Senior Software Engineer (PHP)](sw-engineer-php.md)
 
 ## DevOps
-* [Senior DevOps Lead](devops-lead.md)
+* [DevOps Lead](devops-lead.md)
