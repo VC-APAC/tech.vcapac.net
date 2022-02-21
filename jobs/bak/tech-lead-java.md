@@ -1,30 +1,36 @@
-# Tech Lead (PHP)
+# Tech Lead (Java)
 
-We are looking for a Tech Lead with a strong PHP background, based in Singapore, Vietnam, or China. This person will be responsible for leading the technical implementation of platform projects in our e-commerce platform and report into the VP of Engineering.
+We are looking for a Tech Lead with a strong Java background, based in Singapore, Vietnam, or China. This person will be responsible for leading the technical implementation of platform projects in our e-commerce platform and report into the VP of Engineering.
 
 ## What will you be doing?
 
-* Analyze, dissect, and modernize legacy application code
-* Building out modular components that replace heritage code and consume API based webservices
+* Design, implement and maintain Java based backend services
 * Mentor and lead a squad of 5 people
 * Take accountability for estimates and project delivery
 * Work with other teams, including front-end, product, and design, to ensure integration and consistency
-* Participate in code reviews, and code clean up 
-* Participate in scrum ceremonies and sprint planning, demonstration of working software at the end of each sprint 
-* Collaborate with global engineering teams to build and deploy features
+* Participate in code reviews, and code clean up
 
 ## Who you are?
 
-* 8 years PHP experience, ideally with frameworks such as Symfony
+* 8 years Java experience including Spring Boot
 * Significant coding skills
 * Exceptional problem-solving and analytical abilities
 * Knowledge of current frameworks, SDKs, APIs, and libraries
 * Good organizational and time-management skills
 * Ability to work with other developers and assist team members
-* Have worked with OpenAPI specifications and agile methodologies
+* Have worked with OpenAPI specifications, API integration, agile methodologies
 * Have strong interpersonal skills, including being able to negotiate and lead
 * Excellent english is a must
 * Prior exposure to e-commerce is a plus
+
+## What we offer?
+
+* An ambitious organization that is scaling fast and committed to delivering the best platform to our community
+* We are a test and learn company and are always challenging ourselves as a team
+* Agile work environment
+* International team
+* Technical Conferences overseas, meetups to learn more & share more
+* Attractive salary & bonus scheme
 
 ## About Vestiaire Collective
 
