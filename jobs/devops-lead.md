@@ -19,6 +19,7 @@ We are looking for a DevOps Lead Engineer and strong communicator, based in Sing
 * Solid experience with Linux, Git, containers, and AWS
 * Experience with Kubernetes and cloud native applications
 * Worked with CI/CD tools (Jenkins, Travis, CircleCI, etc)
+* Automation and Infrastructure-as-Code (Ansible, Terraform, AWS Cloudformation etc)
 * Experience with monitoring, alerting, and troubleshooting tools
 * Ability to work both independently and as part of a team
 * Ability to work in a fast-paced environment with a substantial degree of ambiguity
