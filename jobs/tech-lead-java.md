@@ -12,7 +12,7 @@ We are looking for a Tech Lead with a strong Java background, based in Singapore
 
 ## Who you are?
 
-* 8 years Java experience including Spring Boot
+* 8 years Java experience including Spring Boot, OpenJ9
 * Significant coding skills
 * Exceptional problem-solving and analytical abilities
 * Knowledge of current frameworks, SDKs, APIs, and libraries
